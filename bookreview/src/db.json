@@ -1,0 +1,26 @@
+{
+    "user":[
+        {
+        "Firstname": "Kiruthika",
+         "Lastname": "U",
+         "EmailAddress": "kiruthu@123",
+         "Password": "2004",
+         "id": 1
+        },
+        {
+            "Firstname": "Kanishka",
+         "Lastname": "S",
+         "EmailAddress": "kanish@123",
+         "Password": "2005",
+         "id": 2
+        },
+        {
+            "Firstname": "Priyatharshini",
+         "Lastname": "S.S",
+         "EmailAddress": "priya@123",
+         "Password": "2006",
+         "id": 3
+        }
+    ]
+
+}
